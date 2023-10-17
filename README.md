@@ -1,5 +1,5 @@
 # Word_Count
-A command line tool to mimick the built in wcword count) tool.
+A command line tool to mimick the built in wcword count tool.
 
 This tool was built as part of a coding challenge that can be found here:
 https://www.linkedin.com/pulse/coding-challenge-1-john-crickett/?trackingId=PDgZ3EIYQNGEPDqAgtcnlA%3D%3D
